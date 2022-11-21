@@ -1,0 +1,113 @@
+.head{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 70px;
+    /* background-color: aqua; */
+}
+.navs{
+    /* background-color: red; */
+    display: inline-flex;
+    width: 50%;
+    justify-content: space-evenly;
+    margin-left: 380px;
+    align-items: center;
+    height: 70px;
+}
+.navs a{
+    color:  hsl(231, 7%, 65%);
+    cursor: pointer;
+}
+.btn-1{
+    border-radius: 5px;
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: hsl(255deg 43% 28%);
+    padding: 10px;
+    cursor: pointer;
+}
+.content{
+    margin-left: 150px;
+    margin-top: 140px;
+    display: inline;
+    float: center;
+    /* background-color: rebeccapurple; */
+    width: 620px;
+}
+.img-1{
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 90px;
+    
+    /* background-color: aqua; */
+}
+.sec-1{
+    display: flex;
+}
+.btn-2{
+    background-color: hsl(255deg 43% 28%);
+    color: hsl(231, 7%, 65%);
+    padding: 13px ;
+    border-radius: 26px;
+    border: none;
+    font-size: 13px;
+
+}
+.intro{
+    margin-top: 20px;
+    width:100%;
+    height: 95px;
+    /* background-color: rebeccapurple; */
+    
+}
+.intro-1{
+    
+    color: hsl(255deg 43% 28%);
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+    align-items: center;
+
+    /* padding: 4px;  */
+   
+}
+.para{
+    /* background-color: aqua; */
+    width: 95%;
+    font-size: 16px;
+    align-items: center;
+    padding: 10px;
+    
+
+}
+#email{
+    width: 200px;
+    height: 27px;
+    margin-left: 6px;
+   
+}
+.btn-3{
+    border-radius: 5px;
+    height: 35px;
+    border: none;
+    color: white;
+    background-color: hsl(255deg 43% 28%);
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.foot{
+    margin-left: 150px;
+    margin-top: 100px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.logos{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    margin-left: 130px;
+    padding: 20px;
+    width: 29%;
+
+}
